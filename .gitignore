@@ -1,0 +1,18 @@
+# Power BI temporary/backup files
+*.pbit
+~$*.pbix
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment/secrets
+.env
+.env.*
