@@ -323,25 +323,27 @@ Potential extensions to this project include:
 
 ---
 
-# 📚 Dataset
+## 📚 Dataset
 
-The project uses the **Superstore retail dataset**, containing transactional information including:
+The project uses the Superstore retail dataset containing transactional information including:
 
-* Orders
-* Customers
-* Products
-* Categories
-* Sales
-* Quantity
-* Discounts
-* Profit
-* Regions
-* Shipping modes
-* Order and shipping dates
+- Orders
+- Customers
+- Products
+- Categories
+- Sales
+- Quantity
+- Discounts
+- Profit
+- Regions
+- Shipping modes
+- Order and shipping dates
 
-The raw dataset is not included in this repository.
+A prepared Excel workbook containing the cleaned dataset and exploratory analysis is available in:
 
-See [`data/README.md`](data/README.md) for more information.
+`data/Superstore_Analysis.xlsx`
+
+The original raw source dataset is not included separately.
 
 ---
 
